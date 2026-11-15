@@ -5,7 +5,7 @@
 ## 适用场景
 
 - 期末/平时成绩录入：把已算好、已填模板的成绩文件批量导入教务系统
-- 与 [grade-management](https://github.com/woshidashen804/grade-management)（成绩计算与模板填写）衔接：那边产出文件，这边负责导入
+- 与 [grade-management](https://github.com/shuxuexiaoli/grade-management)（成绩计算与模板填写）衔接：那边产出文件，这边负责导入
 
 ## 内容说明
 
@@ -21,4 +21,4 @@
 
 本仓库是一份给 AI 助手加载的技能（skill）：把 `SKILL.md` 与 `references/` 提供给助手，配合已登录的浏览器（CDP）环境，即可按流程执行成绩导入。前置条件：成绩文件已按模板格式准备好。
 
-> 作者为职业院校数学教师，更多教学工具见主页：https://github.com/woshidashen804
+> 作者为职业院校数学教师，更多教学工具见主页：https://github.com/shuxuexiaoli
